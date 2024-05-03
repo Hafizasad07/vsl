@@ -49,3 +49,24 @@
 .font-14{
     font-size: 14px;
 }
+
+.font-size-38{
+    font-size: 38px;
+    line-height: normal;
+    font-weight: bold;
+}
+
+.credit-secrets-ul ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.credit-secrets-ul ul li{
+    font-size: 20px;
+    display: flex;
+    align-items: flex-start;
+}
+
+hr{
+    color: #000;
+}
