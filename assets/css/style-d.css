@@ -113,3 +113,37 @@ hr{
 .font-size-20{
     font-size: 20px;
 }
+
+.font-size-18{
+    font-size: 18px;
+}
+
+.trent-B{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    width: 440px;
+    height: 875px;
+    margin-bottom: 30px;
+}
+
+.trent-b-height{
+    height: 365px;
+}
+
+.section4-support-ancher a{
+    text-decoration: underline;
+    color: #BB2A26;
+}
+
+.section4{
+    background-color: #EDF4F8;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 70px;
+}
+
+.footer{
+    background-color: #000000;
+    color: #646464;
+    font-size: 15px;
+}

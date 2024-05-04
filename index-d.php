@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style-d.css">
     <title>VSL Page</title>
 </head>
 <body> 
@@ -118,6 +118,111 @@
             </div>
             <hr class="mt-4">
             <div class="font-size-38 text-center pt-5">Here’s How Our Members Have Used <br> Credit Secrets To Raise Their Scores & Transform <br>Their Financial Lives For The Better…</div>
+            <div class="section3 pt-5">
+                <div class="row mx-auto w-100">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                        <div class="trent-B text-center">
+                            <div class="img"><img src="assets/images/Layer 5.png" alt="" class="w-100"></div>
+                            <div class="trent-b-height">
+                                <p class="pt-4">"When I started, my scores were around the <br> high 500s to the low 600s, depending on <br> the bureau. <span class="fw-bold">But in about 6 months, I had <br> climbed up to the mid 700s.</span></p>
+                                <p>At that point, I was able to buy a house, <br> [get] two new cars and [secure] higher <br>limits on all the cards I had. I'm not stressed <br> out over my scores anymore. </span></p>
+                                <p><span class="fw-bold">Now I'm in the 800 club.</span> Everything I need <br>credit for has low interest rates, better <br> terms and higher limits. I owe it all to this <br>program. So I highly recommend it."</p>
+                            </div>
+                            <p class="pb-4"><span class="fw-bold">Trent B. <br></span>Ankeny, IA</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                        <div class="trent-B text-center">
+                            <div class="img"><img src="assets/images/Layer 5.png" alt="" class="w-100"></div>
+                            <div class="trent-b-height">
+                                <p class="pt-4">"I was in a rut as far as my credit. I started <br>out with a 524 average.</span></p>
+                                <p> My credit was so jacked up that I couldn't <br> even open a checking/ savings account.</p>
+                                <p> Once I started this program, I began to see <br>the magic that was going to come from it.</p>
+                                <p><span class="fw-bold">Today my credit is wiped clean. I'm sitting <br> on a 752 today. [A 228 point boost]"</span></p>
+                            </div>
+                            <p class="pb-4"><span class="fw-bold">James M. <br></span>Santa Monica, CA</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                        <div class="trent-B text-center">
+                            <div class="img"><img src="assets/images/Layer 5.png" alt="" class="w-100"></div>
+                            <div class="trent-b-height">
+                                <p class="pt-4">"I never really had a problem with my <br>credit... until life happened. Expectedbr <br> surprises came along the way and my credit <br> was in the tank.</p>
+                                <p> I didn't know what to do about it. But after <br> going through the program, I received my <br> first win..</p>
+                                <p><span class="fw-bold">My credit score went up 15 points</span> because <br> 4 accounts were removed from my credit <br> reports for old charge offs that were <br> associated with previous addresses."</p>
+                            </div>
+                            <p class="pb-4"><span class="fw-bold">Cathy Sherman <br></span>Roseville, CA</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                        <div class="trent-B text-center">
+                            <div class="img"><img src="assets/images/Layer 5.png" alt="" class="w-100"></div>
+                            <div class="trent-b-height">
+                                <p class="pt-4">“One of my new year goals was to improve <br> my credit and raise my scores. </p>
+                                <p> After reading through the information <br> several times and digesting the material, I <br> took action. </p>
+                                <p>When I started this program, my credit <br> score was in the 530 range and <span class="fw-bold">4 months <br> into the program, my credit score <br> [increased to] 687. </span></p>
+                                <p>Credit Secrets has been great for me. I <br> highly recommend it. It's a great program if <br> you just take action."</p>
+                            </div>
+                            <p class="pb-4"><span class="fw-bold">Damon Hal <br></span>Bowie, MD</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                        <div class="trent-B text-center">
+                            <div class="img"><img src="assets/images/Layer 5.png" alt="" class="w-100"></div>
+                            <div class="trent-b-height">
+                                <p class="pt-4"><span class="fw-bold">"My wife's scores jumped 124 points. </span> <br> Once that happened, I got her a Discover <br> card and put myself on there as an <br> authorized user because my wife's credit <br> was better than mine. </p>
+                                <p>So the best way for [my score] to increase <br> was to piggyback off of her credit.</p>
+                                <p>We went to Hawaii and since then, <span class="fw-bold">I've <br> gotten $10,000 worth of trade lines <br> without a credit check."</span></p>
+                            </div>
+                            <p class="pb-4"><span class="fw-bold">CJ Johnson <br></span>San Diego, CA</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                        <div class="trent-B text-center">
+                            <div class="img"><img src="assets/images/Layer 5.png" alt="" class="w-100"></div>
+                            <div class="trent-b-height">
+                                <p class="pt-4">"I had some repo and credit cards with <br> some negative information on it. </p>
+                                <p>I purchased the book and since then, my <br> score has [increased]. <span class="fw-bold"> It was in the low to <br>mid 500s before and now it's in the low to <br> mid 600s.</span></p>
+                                <p>I'm so happy that I joined the [Credit <br> Secrets] family and I recommend everyone <br> who has a problem with their credit to <br> purchase this book."</p>
+                            </div>
+                            <p class="pb-4"><span class="fw-bold">Tracey P. <br></span>Greenwood, DE</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="raise-btn text-center py-3">
+                    <a href=""><p class="font-size-27">&gt;&gt; Raise My Scores &lt;&lt;</p><p class="font-14">Click Here to Unlock an 80% Discount Plus Free Bonuses</p><p class="font-12">(Limited-Time Offer)</p></a>
+                </div>
+                <hr class="mt-5">
+            </div>
+            <div class="section4 pt-5">
+                <div class="row mx-auto w-100">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-12">
+                        <div class="badge"><img src="assets/images/badge.png" alt=""></div>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12 col-12">
+                        <div class="font-size-38">You Are Backed By Our <br> 100% Money Back Guarantee…</div>
+                        <div class="font-size-18 pt-3">
+                            <p class="pb-4">Try Credit Secrets completely risk-free for a full 90 days. Use <br> everything inside to raise your scores as much as you like! </p>
+                            <p>If at any time, for any reason (or no reason at all) you find that it's <br>not right for you - all you have to do is send us an email to <br> <span class="section4-support-ancher"><a href="#" target="_blank">support@creditsecret.org,</a></span> and we will refund every penny of your <br> purchase - No Questions Asked.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="raise-btn text-center mt-4">
+                <a href=""><p class="font-size-27">&gt;&gt; Raise My Scores &lt;&lt;</p><p class="font-14">Click Here to Unlock an 80% Discount Plus Free Bonuses</p><p class="font-12">(Limited-Time Offer)</p></a>
+            </div>
+            <hr class="mt-5">
+            <div class="font-size-38 text-center pt-5 pb-5">Get Instant Access To The Credit Secrets <br>Program & Start Raising Your Scores Today</div>
+            <div class="raise-img text-center"><img src="assets/images/raise-img.png" alt="" class=""></div>
+            <div class="raise-btn text-center mt-4 mb-5">
+                <a href=""><p class="font-size-27">&gt;&gt; Raise My Scores &lt;&lt;</p><p class="font-14">Click Here to Unlock an 80% Discount Plus Free Bonuses</p><p class="font-12">(Limited-Time Offer)</p></a>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="container py-5">
+                <p>Testimonials, case studies, and examples found on this page are results that have been forwarded to us by users of Credit Secrets and <br> related products, and may not reflect the typical purchaser's experience, may not apply to the average person and are not intended to <br>represent or guarantee that anyone will achieve the same or similar results.</p>
+                <p class="mb-0 pt-2">2024 CreditSecrets.com All rights reserved. Unauthorized duplication or publication of any materials from this site is expressly prohibited. All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement. The views and information contained within this website are provided for informational purposes only, are not meant as financial advice, and represent the current good-faith views of the authors at the time of publication. The above statements are a representation of vendor's experiences, and are narrated by a third party voice actor. Every effort has been made to accurately represent this product and its potential. Examples and testimonials in these materials are not to be interpreted as a promise or guarantee of results. This product's potential is entirely dependent on the person using it, and their current situation. CreditSecret.org is not a credit repair organization as defined under federal or state law, namely, the CROA. This website does not offer or provide credit repair services or personal advice or assistance with rebuilding or improving your credit score, report or rating. We do not offer any personalized consultation regarding credit or personal finances whatsoever.</p>
+            </div>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
