@@ -20,8 +20,9 @@
     text-align: center;
 }
 
-#vidalytics_embed_NVghPqQ7aWYVodsw {
+.five-min-daily {
     padding-top: 400px !important;
+    width: 50% !important;
 }
 
 .raise-btn a{
@@ -70,9 +71,12 @@
 }
 
 .credit-secrets-ul ul li{
-    font-size: 20px;
     display: flex;
     align-items: flex-start;
+    margin: 20px 0px;
+    background: url("../icons/Tick.svg") no-repeat;
+    padding-left: 30px;
+    background-size: 22px 22px;
 }
 
 hr{
@@ -88,6 +92,21 @@ hr{
 
 .container{
     max-width: 980px;
+}
+
+.section2{
+    background: url(../images/section2.png);
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    padding: 30px 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
+}
+
+.section2 .credit-secrets-ul{
+    background: #EEF5F9;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 40px 40px 0px;
 }
 
 .section2-mobile{
@@ -121,8 +140,19 @@ hr{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
     border-radius: 20px;
     width: 440px;
-    height: 875px;
+    height: 900px;
     margin-bottom: 30px;
+}
+
+.trent-B img{
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 20px;
+}
+
+.trent-b-height{
+    height: 365px;
+    padding: 0px 30px;
 }
 
 .section4-support-ancher a{
@@ -143,16 +173,25 @@ hr{
     font-size: 15px;
 }
 
+.cABtmV{
+    display: none !important;
+}
 /* media query  */
 
 @media screen and (min-width:1300px) {
-    #vidalytics_embed_NVghPqQ7aWYVodsw {
+    .five-min-daily {
         padding-top: 430px !important;
     }
 }
 
+@media screen and (min-width:1500px) {
+    .five-min-daily {
+        padding-top: 530px !important;
+    }
+}
+
 @media screen and (max-width:1200px) {
-    #vidalytics_embed_NVghPqQ7aWYVodsw {
+    .five-min-daily {
         padding-top: 350px !important;
     }
 
@@ -162,7 +201,7 @@ hr{
 }
 
 @media screen and (max-width:1100px) {
-    #vidalytics_embed_NVghPqQ7aWYVodsw {
+    .five-min-daily {
         padding-top: 350px !important;
     }
 
@@ -179,18 +218,40 @@ hr{
     }
 }
 
+@media screen and (max-width:998px) {
+    .quickstart-description{
+        letter-spacing: 0px;
+        padding-top: 40px;
+    }
+
+    .quickstart-heading{
+        font-size: 30px;
+    }
+}
+
 @media screen and (max-width:900px) {
-    #vidalytics_embed_NVghPqQ7aWYVodsw {
+
+    .five-min-daily {
         padding-top: 300px !important;
     }
 
     .container {
         max-width: 700px;
     }
+
+    .quick-start img{
+        width: 90%;
+    }
+
+    .trent-b-height {
+        height: 480px !important;   
+        padding: 0px 15px; 
+    }
+
 }
 
 @media screen and (max-width:800px) {
-    #vidalytics_embed_NVghPqQ7aWYVodsw {
+    .five-min-daily {
         padding-top: 250px !important;
     }
 
@@ -219,17 +280,17 @@ hr{
         font-size: 22px;
     }
 
-    .font-size-20,
-    .credit-secrets-ul ul li{
+    .font-size-20{
         font-size: 16px;
     }
-
+    
     .credit-secrets-ul img{
         width: 20px;
     }
 
+    .font-size-27,
     .quickstart-heading{
-        font-size: 28px;
+        font-size: 20px;
         padding: 0px 20px;
     }
 
@@ -253,11 +314,22 @@ hr{
     .trent-m-height{
         padding: 0px 20px;
     }
+
+    .badge{
+        display: flex;
+        justify-content: center;
+        padding-bottom: 30px;
+    }
+
+    .five-min-daily {
+        width: 60% !important;
+    }
 }
 
 @media screen and (max-width:670px) {
 
-    #vidalytics_embed_NVghPqQ7aWYVodsw {
+    .five-min-daily {
+        width: 65% !important;
         padding-top: 250px !important;
     }
 
@@ -265,21 +337,15 @@ hr{
         max-width: 550px;
     }
 
-    .section1 .video{
-        width: 57% !important;
-    }
     .raise-btn a{
         padding: 6px 26px;
     }
 }
 
 @media screen and (max-width:567px) {
+
     .container {
         max-width: 90%;
-    }
-
-    .section1 .video{
-        width: 76% !important;
     }
 
     .section2-mobile .credit-secrets-ul{
@@ -287,6 +353,9 @@ hr{
         padding:20px;
     }
 
+    .five-min-daily {
+        width: 80% !important;
+    }
 }
 
 @media screen and (max-width:440px) {
@@ -297,6 +366,10 @@ hr{
     .font-12,
     .font-14 {
         font-size: 10px;
+    }
+
+    .font-size-27{
+        font-size: 19px;
     }
 }
 
