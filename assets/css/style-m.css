@@ -21,9 +21,8 @@
     text-align: center;
 }
 
-.five-min-daily.mob{
-    padding-top: 100% !important;
-    width: 52% !important;
+.mobile-video{
+    padding: 0px 10px !important;
 }
 
 .raise-btn a{
@@ -248,7 +247,7 @@ hr{
     }
 
     .section1 .heading{
-        font-size: 30px;
+        font-size: 14px;
         padding: 0px 30px;
     }
 
