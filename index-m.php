@@ -219,7 +219,7 @@
                         <div class="trent-B text-center">
                         <p><a href="https://gold.wistia.com/medias/9uwwf9r1ip?embedType=async&amp;seo=true&amp;videoFoam=true&amp;videoWidth=640&amp;wvideo=9uwwf9r1ip"><img src="https://embed-ssl.wistia.com/deliveries/889e01381f699d65a53e691d8bc39fde86c45ab6.jpg?image_play_button_size=2x&amp;image_crop_resized=960x960&amp;image_play_button=1&amp;image_play_button_color=cd0000e0" width="400" height="400" style="width: 400px; height: 400px;"></a></p><p><a href="https://gold.wistia.com/medias/9uwwf9r1ip?embedType=async&amp;seo=true&amp;videoFoam=true&amp;videoWidth=640&amp;wvideo=9uwwf9r1ip"></a></p>
                             <div class="trent-b-height trent-m-height">
-                            <p class="pt-4">"I never really had a problem with my credit... until life happened. Expectedbr surprises came along the way and my credit was in the tank.</p>
+                            <p class="pt-4">"I never really had a problem with my <br> credit... until life happened. Expected <br> surprises came along the way and my credit <br> was in the tank.</p>
                                 <p> I didn't know what to do about it. But after going through the program, I received my first win..</p>
                                 <p><span class="fw-bold">My credit score went up 15 points</span> because 4 accounts were removed from my credit reports for old charge offs that were associated with previous addresses."</p>
                             </div>
@@ -242,7 +242,7 @@
                         <div class="trent-B text-center">
                             <p><a href="https://gold.wistia.com/medias/ad6hdc8ybw?embedType=async&amp;seo=true&amp;videoFoam=true&amp;videoWidth=640&amp;wvideo=ad6hdc8ybw"><img src="https://embed-ssl.wistia.com/deliveries/f79101487781590270e1aa11695243a90ca6e2c0.jpg?image_play_button_size=2x&amp;image_crop_resized=960x960&amp;image_play_button=1&amp;image_play_button_color=cd0000e0" width="400" height="400" style="width: 400px; height: 400px;"></a></p><p><a href="https://gold.wistia.com/medias/ad6hdc8ybw?embedType=async&amp;seo=true&amp;videoFoam=true&amp;videoWidth=640&amp;wvideo=ad6hdc8ybw"></a></p>
                             <div class="trent-b-height trent-m-height">
-                            <p class="pt-4"><span class="fw-bold">"My wife's scores jumped 124 points. </span> Once that happened, I got her a Discover card and put myself on there as an authorized user because my wife's credit was better than mine. </p>
+                            <p class="pt-4"><span class="fw-bold">"My wife's scores jumped 124 points. <br></span> Once that happened, I got her a Discover <br>card and put myself on there as an <br> authorized user because my wife's credit <br> was better than mine. </p>
                                 <p>So the best way for [my score] to increase was to piggyback off of her credit.</p>
                                 <p>We went to Hawaii and since then, <span class="fw-bold">I've gotten $10,000 worth of trade lines without a credit check."</span></p>
                             </div>
@@ -253,9 +253,9 @@
                         <div class="trent-B text-center">
                             <p><a href="https://gold.wistia.com/medias/6vqscjlzei?embedType=async&amp;seo=true&amp;videoFoam=true&amp;videoWidth=640&amp;wvideo=6vqscjlzei"><img src="https://embed-ssl.wistia.com/deliveries/fd78609d80f1ca07e54a9553741823a978ba600c.jpg?image_play_button_size=2x&amp;image_crop_resized=960x960&amp;image_play_button=1&amp;image_play_button_color=cd0000e0" width="400" height="400" style="width: 400px; height: 400px;"></a></p><p><a href="https://gold.wistia.com/medias/6vqscjlzei?embedType=async&amp;seo=true&amp;videoFoam=true&amp;videoWidth=640&amp;wvideo=6vqscjlzei"></a></p>
                             <div class="trent-b-height trent-m-height">
-                            <p class="pt-4">"I had some repo and credit cards with some negative information on it. </p>
-                                <p>I purchased the book and since then, my score has [increased]. <span class="fw-bold"> It was in the low to mid 500s before and now it's in the low to mid 600s.</span></p>
-                                <p>I'm so happy that I joined the [Credit Secrets] family and I recommend everyone who has a problem with their credit to purchase this book."</p>
+                            <p class="pt-4">"I had some repo and credit cards with <br> some negative information on it. </p>
+                                <p>I purchased the book and since then, my <br> score has [increased]. <span class="fw-bold"> It was in the low to <br> mid 500s before and now it's in the low to mid 600s.</span></p>
+                                <p>I'm so happy that I joined the [Credit <br> Secrets] family and I recommend everyone <br> who has a problem with their credit to purchase this book."</p>
                             </div>
                             <p class="pb-4"><span class="fw-bold">Tracey P. <br></span>Greenwood, DE</p>
                         </div>

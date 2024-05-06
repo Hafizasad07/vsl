@@ -152,7 +152,7 @@ hr{
 }
 
 .trent-b-height{
-    height: 365px;
+    /* height: 365px; */
     padding: 0px 30px;
 }
 
@@ -223,7 +223,7 @@ hr{
     }
 
     .trent-b-height {
-        height: 480px !important;   
+        /* height: 480px !important;    */
         padding: 0px 15px; 
     }
 
