@@ -12,17 +12,9 @@
     <div class="wrapper">
         <div class="section1">
             <div class="heading pb-4">Upgrade Your Car, Your Home, And Your <br> Credit Score In 2024, By Doing This <br> Simple 5-Min Trick Once Daily…</div>
-            <div class="d-none d-md-block">
-                <div class="pb-4 d-flex justify-content-center">
-                    <script type="text/javascript">(function(v,i,d,a,l,y,t,c,s){y='_'+d.toLowerCase();c=d+'L';if(!v[d]){v[d]={};}if(!v[c]){v[c]={};}if(!v[y]){v[y]={};}var vl='Loader',vli=v[y][vl],vsl=v[c][vl+'Script'],vlf=v[c][vl+'Loaded'],ve='Embed';if(!vsl){vsl=function(u,cb){if(t){cb();return;}s=i.createElement("script");s.type="text/javascript";s.async=1;s.src=u;if(s.readyState){s.onreadystatechange=function(){if(s.readyState==="loaded"||s.readyState=="complete"){s.onreadystatechange=null;vlf=1;cb();}};}else{s.onload=function(){vlf=1;cb();};}i.getElementsByTagName("head")[0].appendChild(s);};}vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});})(window,document,'Vidalytics','vidalytics_embed_NVghPqQ7aWYVodsw','https://quick.vidalytics.com/embeds/XCINKccT/NVghPqQ7aWYVodsw/');</script>
-                    <div id="vidalytics_embed_NVghPqQ7aWYVodsw" class="five-min-daily" style=" position:relative; padding-top: 300px;"></div>
-                </div>
-            </div>
-            <div class="d-block d-md-none">
-                <div class="d-flex justify-content-center">
-                    <script type="text/javascript">(function(v,i,d,a,l,y,t,c,s){y='_'+d.toLowerCase();c=d+'L';if(!v[d]){v[d]={};}if(!v[c]){v[c]={};}if(!v[y]){v[y]={};}var vl='Loader',vli=v[y][vl],vsl=v[c][vl+'Script'],vlf=v[c][vl+'Loaded'],ve='Embed';if(!vsl){vsl=function(u,cb){if(t){cb();return;}s=i.createElement("script");s.type="text/javascript";s.async=1;s.src=u;if(s.readyState){s.onreadystatechange=function(){if(s.readyState==="loaded"||s.readyState=="complete"){s.onreadystatechange=null;vlf=1;cb();}};}else{s.onload=function(){vlf=1;cb();};}i.getElementsByTagName("head")[0].appendChild(s);};}vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});})(window,document,'Vidalytics','vidalytics_embed_0Xdg6Ny1NlZMkHbv','https://quick.vidalytics.com/embeds/XCINKccT/0Xdg6Ny1NlZMkHbv/');</script>
-                    <div id="vidalytics_embed_0Xdg6Ny1NlZMkHbv" class="five-min-daily" style="width: 100%; position:relative; padding-top: 177.94%;"></div>
-                </div>
+            <div class="d-flex justify-content-center">
+                <script type="text/javascript">(function(v,i,d,a,l,y,t,c,s){y='_'+d.toLowerCase();c=d+'L';if(!v[d]){v[d]={};}if(!v[c]){v[c]={};}if(!v[y]){v[y]={};}var vl='Loader',vli=v[y][vl],vsl=v[c][vl+'Script'],vlf=v[c][vl+'Loaded'],ve='Embed';if(!vsl){vsl=function(u,cb){if(t){cb();return;}s=i.createElement("script");s.type="text/javascript";s.async=1;s.src=u;if(s.readyState){s.onreadystatechange=function(){if(s.readyState==="loaded"||s.readyState=="complete"){s.onreadystatechange=null;vlf=1;cb();}};}else{s.onload=function(){vlf=1;cb();};}i.getElementsByTagName("head")[0].appendChild(s);};}vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});})(window,document,'Vidalytics','vidalytics_embed_0Xdg6Ny1NlZMkHbv','https://quick.vidalytics.com/embeds/XCINKccT/0Xdg6Ny1NlZMkHbv/');</script>
+                <div id="vidalytics_embed_0Xdg6Ny1NlZMkHbv" class="five-min-daily mob" style="width: 100%; position:relative; padding-top: 177.94%;"></div>
             </div>
         </div>
         <div class="raise-btn text-center py-5">

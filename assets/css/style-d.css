@@ -13,11 +13,17 @@
     font-weight: bold;
     color: #fff;
     padding-top:30px;
+    border-top: 4px solid #BB2A26;
 }
 
 .section1 .video{
     width: 50% !important;
     text-align: center;
+}
+
+.five-min-daily.mob{
+    padding-top: 100% !important;
+    width: 52% !important;
 }
 
 .five-min-daily {
@@ -32,6 +38,7 @@
     display: inline-block;
     padding: 6px 50px;
     border-radius: 5px;
+    box-shadow: 0 8px 22px 0 #fff, 0 6px 20px 0 #BB2A26;
 }
 
 .raise-btn a p{
@@ -186,7 +193,7 @@ hr{
 
 @media screen and (min-width:1500px) {
     .five-min-daily {
-        padding-top: 530px !important;
+        padding-top: 560px !important;
     }
 }
 
@@ -322,12 +329,16 @@ hr{
     }
 
     .five-min-daily {
-        width: 52% !important;
-        padding-top: 100% !important;
+        width: 60% !important;
     }
 }
 
 @media screen and (max-width:670px) {
+
+    .five-min-daily {
+        width: 65% !important;
+        padding-top: 250px !important;
+    }
 
     .container {
         max-width: 550px;
@@ -347,6 +358,10 @@ hr{
     .section2-mobile .credit-secrets-ul{
         margin: 20px 20px 0px;
         padding:20px;
+    }
+
+    .five-min-daily {
+        width: 80% !important;
     }
 }
 
