@@ -368,11 +368,18 @@ p{
 @media screen and (max-width:420px) {
     .low-credit-img img {
         top: -15px;
-        width: 80%;
+        width: 82%;
     }
 
     .low-credit-text {
         padding: 4px 2px;
         font-size: 9px;
+    }
+}
+
+@media screen and (max-width:405px) {
+    .low-credit-img img {
+        top: -11px;
+        width: 90%;
     }
 }
