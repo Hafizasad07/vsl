@@ -157,8 +157,8 @@ hr{
     border-radius: 20px;
 }
 
-.trent-b-height{
-    /* height: 365px; */
+.trent-d-height{
+    height: 365px;
     padding: 0px 30px;
 }
 
@@ -250,8 +250,8 @@ hr{
         width: 90%;
     }
 
-    .trent-b-height {
-        /* height: 480px !important;    */
+    .trent-d-height {
+        height: 480px !important;   
         padding: 0px 15px; 
     }
 

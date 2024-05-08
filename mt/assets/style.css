@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body{
+    font-family:Inter;
+    max-width:100%;
+}
+
+.cursor-pointer{
+    cursor:pointer;
+}
+
+.relative{
+    position:relative;
+}
+
+.absolute{
+    position:absolute;
+}
+
+.red-arrow{
+    top: -70px;
+    left: -100px;
+}
+
+.collage-2{
+    left:150px;
+    z-index:2;
+    top:150px;
+}
+
+.collage-3{
+    z-index:3;
+    top:215px;
+}
+
+.mt-100px{
+    margin-top:100px;
+}
+
+.mt-200px{
+    margin-top:200px;
+}
+
+.clear{
+    clear:both;
+}
+
+.top-banner{
+    background-color:#1B2B34;
+    color:white;
+}
+
+.center-content-2{
+    max-width: 80%;
+    margin: 200px auto 0px auto;
+    padding-left:240px;
+    padding-right:50px;
+}
+
+.btn-info{
+    background-color:#E6F0FF;
+    color:#0866FF;
+    text-decoration: underline;
+    border:none;
+}
+
+.btn-info:hover{
+    background-color:#E6F0FF;
+    color:#0866FF;
+    text-decoration: underline;
+    border:none;
+}
+
+.font-size-33px{
+    font-size:33px;
+}
+
+.jumbotron{
+    background-color:#06131A;
+    color:white;
+    border-radius:0;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+p{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.center-content{
+    width:50%;
+    margin:0 auto;
+}
+
+.font-light{
+    font-weight:light;
+}
+
+.stats-image{
+    
+    max-width: 120px;
+    margin-top: 3px;
+    margin-left: -6px;
+
+}
+
+.min-height-450px{
+    min-height:450px;
+}
+
+.border-gray{
+    border:1px solid #ccc;
+}
+
+.max-width-100-percent{
+    max-width:100%;
+}
+
+.w-100{
+    width:100%;
+}
+
+.font-12{
+    font-size:12px;
+}
+
+.bg-light{
+    background-color:#F4F4F4;
+}
+
+.free-video-button{
+    display:inline-block;
+    background-color:#49555D;
+    border:2px solid #ffff;
+    color:white;
+    padding:3px 10px;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.text-link{
+    color:#41A6DC;
+}
+
+.text-link:hover{
+    color:#41A6DC;
+}
+
+
+.hover-no-outline:hover{
+    text-decoration: none;
+}
+
+.hover-text-white:hover{
+    color:white;
+}
+
+.watch-now-button{
+    padding:10px 30px;
+    background-color:#FF9900;
+    color:white;
+    border-radius:20px;
+   
+
+}
+
+.font-bold{
+    font-weight:bold;
+}
+
+.ticks{
+    list-style-type: none; /* Remove default bullets */
+}
+
+.ticks li{
+    padding-left:  30px; /* Add some padding for the custom bullet */
+    background: url('images/Tick.png') no-repeat left center; /* Use your PNG image */
+    background-size: 20px 20px;
+    margin:10px 0px;
+    line-height: 1.5; 
+    font-weight:bold;
+    
+}
+
+/* mt styling  */
+
+.low-credit{
+    border: 2px solid #e5e5e5;
+    position: relative;
+} 
+
+.low-credit-text{
+    color: #404040;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px 40px;
+}
+
+.low-credit-img img{
+    width: 100%;
+    position: absolute;
+    top: -12px;
+}
+
+.text-404040{
+    color: #404040;
+    font-weight: bold;
+}
+
+.font-size-22px{
+    font-size: 22px;
+}
+
+@media screen and (min-width:1465px) {
+    .low-credit-img img {
+        width: 100%;
+        position: absolute;
+        top: -8px;
+    }
+
+    .low-credit-text {
+        color: #404040;
+        font-weight: bold;
+        font-size: 14px;
+        padding: 3px 40px;
+    }    
+}
+
+@media screen and (max-width:1465px) {
+    .center-content{
+        width:70%;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    .low-credit-text {
+        font-size: 18px;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width:1054px) {
+    .center-content{
+        width:90%;
+    }
+
+    .low-credit-img img {
+        top: -18px;
+    }
+
+    .low-credit-text {
+        padding: 20px 40px;
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:990px) {
+
+    .low-credit-img img {
+        top: -10px;
+        right: -2px;
+        width: 95%;
+    }
+
+    .low-credit-text {
+        padding: 8px 22px;
+        font-size: 18px;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width:836px) {
+    .center-content{
+        width:100%;
+        text-align:left;
+    }
+    .m-mb-10{
+        margin-bottom:10px;
+    }
+
+    .m-mb-20{
+        margin-bottom:20px;
+    }
+
+    .hide-on-mobile{
+        display:none;
+    }
+
+    .collage-1{
+        left:5px;
+    }
+    .collage-2{
+        left:80px;
+    }
+    .collage-3{
+        left: 4px;
+        top: 230px;
+    }
+    .center-content-2{
+        padding-left:0px;
+        padding-right:0px;
+    }
+    .font-size-33px{
+        font-size:14px;
+    }
+    .ticks{
+        padding:0;
+    }
+
+    .low-credit-img img{
+        top: -22px;
+    }
+}
