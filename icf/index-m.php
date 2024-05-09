@@ -237,7 +237,7 @@ $qs = isset($qs) ? '?' . $qs : $qs;
             <div class="center-content mt-4">
                 <p class="font-bold">Sponsored Headlines</p>
                 <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-3 cursor-pointer" onclick="javascript:window.location='../home/<?= $qs ?>'">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-4 cursor-pointer" onclick="javascript:window.location='../home/<?= $qs ?>'">
                         <img src="assets/images/sponsored-1.png" alt="sponsored-1" class="max-width-100-percent w-100 pb-2">
                         <a href="../home/<?= $qs ?>" class="font-bold underline text-dark mt-2">
                             Get Approved for the Home of
@@ -245,14 +245,14 @@ $qs = isset($qs) ? '?' . $qs : $qs;
                             Your Credit History
                         </a>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-3 cursor-pointer" onclick="javascript:window.location='../home/<?= $qs ?>'">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-4 cursor-pointer" onclick="javascript:window.location='../home/<?= $qs ?>'">
                         <img src="assets/images/sponsored-3.png" alt="sponsored-1" class="max-width-100-percent w-100 pb-2">
                         <a href="../home/<?= $qs ?>" class="font-bold underline text-dark mt-2">
                             Need an Extra $24,100? Boost Your
                             Credit Limits (How to Do it Fast)
                         </a>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-3 cursor-pointer" onclick="javascript:window.location='../home/<?= $qs ?>'">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-4 cursor-pointer" onclick="javascript:window.location='../home/<?= $qs ?>'">
                         <img src="assets/images/sponsored-3a.png" alt="sponsored-1" class="max-width-100-percent w-100 pb-2">
                         <a href="../home/<?= $qs ?>" class="font-bold underline text-dark mt-2">
                             Are You Prepared for This
