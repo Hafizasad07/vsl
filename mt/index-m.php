@@ -12,7 +12,7 @@ $qs = isset($qs) ? '?' . $qs : $qs;
 <?php @include_once("../common/head_pixel.php") ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raise Your Scores</title>
+    <title>Marc-Taylor</title>
     <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 
