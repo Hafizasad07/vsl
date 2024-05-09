@@ -387,4 +387,8 @@ p{
         top: -11px;
         width: 90%;
     }
+
+    .m-mb-20{
+        font-size: 14px;
+    }
 }

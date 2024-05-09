@@ -37,7 +37,7 @@ $qs = isset($qs) ? '?' . $qs : $qs;
                             <div class="col-xl-2 col-lg-2 col-md-2 col-sm-12 col-12 text-center m-mb-20">
                                 <a href="../home/<?= $qs ?>" class="free-video-button hover-no-outline hover-text-white">Free Video</a>
                             </div>
-                            <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12 font-bold m-mb-20">This 5-Minute Trick Boosts Credit Scores FAST</div>
+                            <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12 font-bold m-mb-20 font-size-15px">This 5-Minute Trick Boosts Credit Scores FAST</div>
                             <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
                                 <a href="../home/<?= $qs ?>" class="watch-now-button font-bold hover-no-outline hover-text-white btn-block text-center">Watch Now</a>
                             </div>
