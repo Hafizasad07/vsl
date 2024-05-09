@@ -317,7 +317,7 @@ p{
     }
 
     .watch-now-button{
-        max-width: 70% !important;
+        max-width: 100% !important;
         display: inline-block;
     }
 }
