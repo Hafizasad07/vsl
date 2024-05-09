@@ -227,10 +227,12 @@ p{
 .wrapper{
     overflow-x: hidden;
 }
+
 @media screen and (max-width:1465px) {
 
     .center-content-2-icf{
         max-width: 70% !important;
+        margin: 18% auto 0px auto; 
     }
     .center-content{
         width:70%;
@@ -310,10 +312,8 @@ p{
         height: 77px;
     }
 
-@media screen and (max-width:480px) {
-    .center-content-2{
-        margin: 200px auto 0px auto;
+    .center-content-2-icf{
+        margin: 20% auto 0px auto;
     }
-}
 
 }

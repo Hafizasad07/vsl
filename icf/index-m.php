@@ -38,8 +38,11 @@ $qs = isset($qs) ? '?' . $qs : $qs;
                                 <a href="../home/<?= $qs ?>" class="free-video-button hover-no-outline hover-text-white">Free Video</a>
                             </div>
                             <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12 font-bold m-mb-20">This 5-Minute Trick Boosts Credit Scores FAST</div>
-                            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
+                            <!-- <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
                                 <a href="../home/<?= $qs ?>" class="watch-now-button font-bold hover-no-outline hover-text-white">Watch Now</a>
+                            </div> -->
+                            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
+                                <a href="../home/<?= $qs ?>" class="watch-now-button font-bold hover-no-outline hover-text-white btn-block text-center">Watch Now</a>
                             </div>
                         </div>
                     </div>
@@ -152,10 +155,10 @@ $qs = isset($qs) ? '?' . $qs : $qs;
                        boost in 13 days, or joining the 720+ club?
                    </h6>
                 </div>
-               <div class="col-xl-8 col-lg-8 col-md-8 col-sm-4 col-4">
+               <div class="col-xl-8 col-lg-8 col-md-8 col-sm-5 col-5">
                    
                    <p class="mt-4 font-12">
-                       Many of Jay’s followers rave about how easy life
+                       Many of Jay’s followers <br> rave about how easy life
                        <br/>has become…
                    </p>
                    <p class="mt-4 font-12">
@@ -170,25 +173,25 @@ $qs = isset($qs) ? '?' . $qs : $qs;
                    
                   
                </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-8 col-8 relative">
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-7 col-7 relative min-height-450px">
                    <img src="assets/images/arrow-red.png" class="absolute red-arrow hide-on-mobile"/>
                    <img src="assets/images/arrow-down-red.png" class="absolute red-arrow"/>
                    <img src="assets/images/collage-1.png" alt="" class="max-width-100-percent absolute collage-1">
                    <img src="assets/images/collage-2.png" alt="" class="max-width-100-percent absolute collage-2">
-                   <img src="assets/images/collage-3.png" alt="" class="max-width-100-percent absolute collage-3">
+                   <img src="assets/images/mobile/collage-3.png" alt="" class="max-width-100-percent absolute collage-3">
                </div>
            </div>
            <div class="row">
-            <div class="col-12">
-                        <p class="mt-4">
-                        Want to join them? 
-                    </p>
-                    <p class="">
-                        All you have to do is click <br>the big blue button below
-                        and <br>watch this special tell-all video now. 
-                    </p>
+                <div class="col-12">
+                            <p class="mt-4">
+                            Want to join them? 
+                        </p>
+                        <p>
+                            All you have to do is click <br>the big blue button below
+                            and <br>watch this special tell-all video now. 
+                        </p>
+                </div>
             </div>
-       </div>
             </div>
             <div class="width-90-percent-two">
                 <div class="center-content-2">

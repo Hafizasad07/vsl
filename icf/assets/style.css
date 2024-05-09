@@ -231,6 +231,7 @@ p{
 
     .center-content-2-icf{
         max-width: 70% !important;
+        margin: 16% auto 0px auto; 
     }
     .center-content{
         width:70%;
@@ -297,5 +298,9 @@ p{
     }
     .thinking-man-degree img {
         left: -38px;
+    }
+
+    .center-content-2-icf{
+        margin: 20% auto 0px auto;
     }
 }

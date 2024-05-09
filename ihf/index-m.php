@@ -39,7 +39,7 @@ $qs = isset($qs) ? '?' . $qs : $qs;
                             </div>
                             <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12 font-bold m-mb-20">This 5-Minute Trick Boosts Credit Scores FAST</div>
                             <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
-                                <a href="../home/<?= $qs ?>" class="watch-now-button font-bold hover-no-outline hover-text-white">Watch Now</a>
+                                <a href="../home/<?= $qs ?>" class="watch-now-button font-bold hover-no-outline hover-text-white btn-block text-center">Watch Now</a>
                             </div>
                         </div>
                     </div>
@@ -167,7 +167,7 @@ $qs = isset($qs) ? '?' . $qs : $qs;
                     boost in 13 days, or joining the 720+ club?
                 </h6>
                 <div class="row mt-40px pt-4">
-               <div class="col-xl-8 col-lg-8 col-md-8 col-sm-4 col-4">
+               <div class="col-xl-8 col-lg-8 col-md-8 col-sm-5 col-5">
                    
                    <p class="mt-4 font-12">
                        Many of Jay’s followers rave about how easy life
@@ -185,7 +185,7 @@ $qs = isset($qs) ? '?' . $qs : $qs;
                    
                   
                </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-8 col-8 relative min-height-450px">
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-7 col-7 relative min-height-450px">
                    <img src="assets/images/arrow-red.png" class="absolute red-arrow hide-on-mobile">
                    <img src="assets/images/arrow-down-red.png" class="absolute red-arrow">
                    <img src="assets/images/collage-1.png" alt="" class="max-width-100-percent absolute collage-1">
@@ -193,12 +193,23 @@ $qs = isset($qs) ? '?' . $qs : $qs;
                    <img src="assets/images/collage-3.png" alt="" class="max-width-100-percent absolute collage-3">
                </div>
            </div>
+           <div class="row">
+                <div class="col-12">
+                            <p class="mt-2">
+                            Want to join them? 
+                        </p>
+                        <p class="">
+                            All you have to do is click <br>the big blue button below
+                            and <br>watch this special tell-all video now. 
+                        </p>
+                </div>
+            </div>
             </div>
             <div class="width-90-percent-two">
                 <div class="center-content-2-icf">
                     <a href="../home/<?= $qs ?>" class="btn btn-info btn-block p-4 font-bold font-size-30px">Click Here to Watch Jay’s Special Video Now—FREE!</a>
                 </div>
-                <div class="center-content mt-5">
+                <div class="mt-5">
                     <h5 class="font-bold">Here’s what you’ll discover inside:</h5>
                     <ul class="ticks">
                         <li>The real reason it’s always felt so hard to raise your credit scores.</li>

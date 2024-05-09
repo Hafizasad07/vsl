@@ -315,6 +315,11 @@ p{
     .low-credit-img img{
         top: -22px;
     }
+
+    .watch-now-button{
+        max-width: 70% !important;
+        display: inline-block;
+    }
 }
 
 @media screen and (max-width:767px) {
