@@ -1,0 +1,222 @@
+html{
+    font-family: "Open Sans",sans-serif !important; overflow: initial; background-image: url("../images/bluebg.png");
+    background-attachment: fixed !important;
+    background-repeat: repeat repeat !important;
+    background-size: cover !important;
+}
+
+body{
+    font-family: inherit;
+    background: none;
+}
+.transparentContainer {
+    background: none;
+}
+
+.innerBox{
+    background-color: rgb(255, 255, 255);
+}
+
+.InnerContainer{
+    background-color: rgba(255, 255, 188, 0.34);
+}
+
+.FormArea{
+    background-color: rgb(242, 242, 242);
+    padding: 35px 25px 15px 25px;
+}
+
+.topGap{
+    margin-top: 20px;
+}
+
+.sideArea{
+    padding: 20px 40px;
+}
+
+label.error:before {
+  content: "\f071";
+  font-family: 'FontAwesome';
+  margin: 0 4px;
+}
+
+label.error{
+    font-size: 12px;
+    color: #b91517;
+    font-weight: normal;
+}
+
+input.error{
+    border: 2px solid #b91517;
+    color: rgb(0, 0, 0);
+}
+
+.ovalImg{
+    border-radius: 5px;
+}
+
+.dashedDivider{
+    border-top: 1px dashed;
+    border-top-color: rgba(0, 0, 0, 0.1) !important;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.solidDivider{
+    border-top: 1px solid;
+    border-top-color: rgba(0, 0, 0, 0.1) !important;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.smallFont{
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.topBox{
+    margin: 60px 30px 10px 30px;
+}
+
+.topText{
+    font-size: 16px;
+    padding: 0px 10px 10px 10px;
+}
+
+.topLock{
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+b, strong, h2, h3, h4 {
+    font-weight: 700;
+}
+
+h4{
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 27px;
+    font-family: "Raleway",sans-serif !important;
+}
+
+h2{
+    font-size: 32px;
+}
+
+.messageHeading {
+    font-size: 18px;
+    padding-bottom: 0px;
+    line-height: 1.1;
+    font-weight: 700;
+}
+.messageText{
+    font-size: 14px;
+    line-height: 1.42857;
+    padding: 5px 30px 5px 5px;
+}
+
+.checkList li:before {
+    content: "\f00c";
+    font-family: FontAwesome;
+    color: rgb(204, 158, 69) !important;
+    left: 0 !important;
+    position: absolute;
+}
+
+.checkList li{
+    font-size: 16px;
+    padding: 10px 10px 10px 25px;
+}
+.checkList, b .checkList{
+    list-style-type: none;
+    position: relative;
+    padding: 0px 10px 0px 0px;
+    line-height: 1.42857;
+    /*rgb(204, 158, 69)*/
+}
+
+.imgText{
+    font-size: 12px;
+    padding: 30px 30px 30px 40px;
+}
+
+.videoArea{
+    margin: 30px 0px;
+}
+
+.btnMain{
+    border-bottom: 3px solid rgba(0, 0, 0, 0.2);
+    border-left: medium none !important;
+    border-right: medium none !important;
+    background-color: rgb(19, 199, 14);
+    color: rgb(255, 255, 255);
+    display: block;
+    text-align: center;
+    width: 100%;
+    font-size: 27px;
+    padding: 13px 35px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+    text-decoration: none !important;
+    font-family: "Raleway",sans-serif !important;
+}
+
+.btnMain:visited, .btnMain:active, .btnMain:hover{
+    text-decoration: none !important;
+}
+
+.btnMain:hover{
+    background-color: #0fa10b !important;
+    color: rgb(255, 255, 255);
+}
+
+.xImg{
+    max-width:100%;
+}
+
+.bottomImages{
+    max-width:100%;
+    margin-bottom: 30px;
+}
+
+.controlStyle{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.05) !important;
+    font-size: 16px;
+    padding: 12px 18px;
+    width: 100%;
+}
+
+.controlStyle#Contact0Country{
+    -moz-appearance: none;
+    outline: medium none !important;
+}
+
+.roundCorners{
+    border-radius: 5px;
+}
+
+.transparentArea{
+    padding: 40px 30px 20px 30px;
+    font-size: 18px;
+    color:rgba(255, 255, 255, 0.79);
+}
+
+.transparentArea b, strong{
+    color:rgb(255, 255, 255);
+}
+
+.bottomText{
+	font-size: 12px;
+	color:rgb(255, 255, 255);
+    padding: 0px;
+}
+
+.nopadding{
+    padding: 0px;
+}

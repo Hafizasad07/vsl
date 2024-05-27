@@ -1,0 +1,1 @@
+$(document).ready(function(){var url=$("#indexVideo").attr('src');$("#myModal").on('hide.bs.modal',function(){$("#indexVideo").attr('src','');});$("#myModal").on('show.bs.modal',function(){$("#indexVideo").attr('src',url);});});
