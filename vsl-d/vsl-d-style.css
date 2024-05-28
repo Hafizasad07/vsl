@@ -1,0 +1,29 @@
+.video-d-style{ 
+    max-width:50%;
+    height:100%
+}
+
+.video-d-style .video-frame{
+    width: 100%; 
+    position:relative; 
+    padding-top: 177.94%;
+}
+
+.opt{
+    max-width: 100% !important;
+    width: 50%;
+    margin-bottom: 40px !important;
+}
+
+.testimonials-text{
+    max-width: 900px; 
+    align-content: center;  
+    margin: 0 auto;
+    padding:0px 20px;
+    max-width: 100% !important;
+    width: 50%;
+}
+
+.opt .step1{
+    padding: 30px;
+}
