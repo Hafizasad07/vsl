@@ -1,5 +1,5 @@
 .video-d-style{ 
-    max-width:35%;
+    max-width:15%;
     height:100%
 }
 
@@ -57,13 +57,13 @@
         align-content: center;
         margin: 0 auto;
         padding: 0px 20px;
-        width: 80%;
+        width: 90%;
     }
 
     .opt{
         margin-top: 0px !important;
         max-width: 100% !important;
-        width: 80%;
+        width: 100%;
         margin-bottom: 40px !important;
     }
     

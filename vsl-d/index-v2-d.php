@@ -438,28 +438,15 @@ body{
 
 <script src="<?php echo ASSETS_PATH ?>/secret/assets/js/script.js"></script>
 
-
-
-
-
-    <script src="<?php echo ASSETS_PATH ?>/secret/js/progress_download2.js"></script>
-
-
-
-
-
-	
-
-
-
-
-
-    
+    <script src="<?php echo ASSETS_PATH ?>/secret/js/progress_download2.js"></script> 
 
 <?php //require_once('/app/web/wp-content/root/pl-integration.php'); ?>
 </head>
 
 <body style="background-color: black;" >
+<div class="wrapper">
+    
+</div>
 <?php @include_once("../common/body_pixel.php") ?>
 <?php @require_once "../common/loader_old.php" ?>
 <input type="hidden" name="reason" id="reason" value="Credit Card">
@@ -535,17 +522,12 @@ body{
 	   </div>
 
     </div><!-- <div class="rules_box"> -->
-	
-	
 	<!-- Updated Design -->
 	<section class="fixed py-5 form-builder-details step2 displaNone"  id="main-section" style="height:inherit;padding-bottom:0 !important">
         <div class="pb-3 mb-3 rounded ideal-card-wrapper">
-
             <div class="ideal-card-body">
                 <div class="step-app form-builder-steps-wizard position-relative" id="steps-wizard">
-
                     <div class="pt-4 step-top">
-
                         <div class="step-header ">
                             <div class="gap-2 mb-3 d-flex align-items-center">
                                 <h4 class="mb-0 text-white ps-4 pe-2 fs-5 fw-bold">Question</h4>
@@ -578,11 +560,7 @@ body{
 
                         </ul>
                     </div>
-
-
-                    <div class="px-0 border-0 step-content">
-					
-						
+                    <div class="px-0 border-0 step-content">					
 							<div class="step-tab-panel" data-step="step1">
 								<div class="ideal-card" >
 									<div class="px-3 py-1 ideal-card-body">
@@ -788,13 +766,10 @@ body{
 						
                         
                     </div>
-
                 </div>
             </div>
         </div>
-    </section>
-    
-    
+    </section>  
 	<div class="py-5 form-builder-details" id="wrapper1" style="display:none">
         <div class="container2">
             <!-- stages-header -->
@@ -816,8 +791,8 @@ body{
 						<input type="hidden" class="form-control" id="tag_ids" name="tag_ids" value="1383">
 						<input type='hidden'  name='custom.reason_for_buying_sms' id='custom.reason_for_buying_sms' value="" />
                         <input type="hidden" id="ptype" name="ptype" value="<?= $ptype ?>"/>
-<input type="hidden" id="cId" name="cId" value="<?= $cId ?>"/>
-<input type="hidden" id="fname" name="fname" value="<?= $fname ?>">
+        <input type="hidden" id="cId" name="cId" value="<?= $cId ?>"/>
+        <input type="hidden" id="fname" name="fname" value="<?= $fname ?>">
 						<div class="px-3 py-1 stage-content-item disabled">
 							<!-- stage 3 content inside start -->
 							<div class="stage-content-item-block stageThree">
@@ -849,7 +824,6 @@ body{
 
             </div>
     </div>
-	
 	<!-- End Updated Design -->
 
 
@@ -1195,21 +1169,11 @@ body{
 <p style="align-content:center;">
  -->
 
-
-
 <center><br /><p><img src="<?php echo ASSETS_PATH ?>/secret/images/security2.png" style="max-width: 320px;"></p></center>
 
 <div>
 
 </div>
-
-
-
-
-
-
-
-
 
 <div class="testimonial-wrapper">
 	<div class="container-1100 testimonial-container" style="display: block;">
@@ -1266,10 +1230,6 @@ body{
 </div>
 
 </div>
-
-
-
-
 
 <font size="2" color="gray" face="arial">
 <p style="color:#333; font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif" align="center">&nbsp;</p>
