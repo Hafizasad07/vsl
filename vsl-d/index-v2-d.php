@@ -1247,22 +1247,42 @@ body{
 
 
 <div class="testimonials-text"><p align="justify">
-<justify>
-<font size="2" color="gray" face="arial">Testimonials, case studies, and examples found on this page are results that have been forwarded to us by users of Credit Secrets and related products, and may not reflect the typical purchaser's experience, may not apply to the average person and are not intended to represent or guarantee that anyone will achieve the same or similar results.</font>
-<br />
-<br />
+    <justify>
+    <font size="2" color="gray" face="arial">Testimonials, case studies, and examples found on this page are results that have been forwarded to us by users of Credit Secrets and related products, and may not reflect the typical purchaser's experience, may not apply to the average person and are not intended to represent or guarantee that anyone will achieve the same or similar results.</font>
+    <br />
+    <br />
 
-<!--
-<font size="2" color="gray" face="arial"> ClickBank is the retailer of products on this site. CLICKBANK� is a registered trademark
-of Click Sales Inc., a Delaware corporation located at 1444 S. Entertainment Ave., Suite
-410 Boise, ID 83709, USA and used by permission. ClickBank's role as retailer does not
-constitute an endorsement, approval or review of these products or any claim, statement or
-opinion used in promotion of these products. </font>  -->
-<br />
-<br />
-<font size="2" color="gray" face="arial">� 2024 CreditSecrets.com  All rights reserved. Unauthorized duplication or publication of any materials from this site is expressly prohibited. All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement. The views and information contained within this website are provided for informational purposes only, are not meant as financial advice, and represent the current good-faith views of the authors at the time of publication. The above statements are a representation of vendor's experiences, and are narrated by a third party voice actor. Every effort has been made to accurately represent this product and its potential. Examples and testimonials in these materials are not to be interpreted as a promise or guarantee of results. This product's potential is entirely dependent on the person using it, and their current situation. CreditSecret.org is not a credit repair organization as defined under federal or state law, namely, the CROA. This website does not offer or provide credit repair services or personal advice or assistance with rebuilding or improving your credit score, report or rating. We do not offer any personalized consultation regarding credit or personal finances whatsoever.<br />
-<br /></justify>
-</font></p></div>
+    <!--
+    <font size="2" color="gray" face="arial"> ClickBank is the retailer of products on this site. CLICKBANK� is a registered trademark
+    of Click Sales Inc., a Delaware corporation located at 1444 S. Entertainment Ave., Suite
+    410 Boise, ID 83709, USA and used by permission. ClickBank's role as retailer does not
+    constitute an endorsement, approval or review of these products or any claim, statement or
+    opinion used in promotion of these products. </font>  -->
+    <br />
+    <br />
+    <font size="2" color="gray" face="arial">� 2024 CreditSecrets.com  All rights reserved. Unauthorized duplication or publication of any materials from this site is expressly prohibited. All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement. The views and information contained within this website are provided for informational purposes only, are not meant as financial advice, and represent the current good-faith views of the authors at the time of publication. The above statements are a representation of vendor's experiences, and are narrated by a third party voice actor. Every effort has been made to accurately represent this product and its potential. Examples and testimonials in these materials are not to be interpreted as a promise or guarantee of results. This product's potential is entirely dependent on the person using it, and their current situation. CreditSecret.org is not a credit repair organization as defined under federal or state law, namely, the CROA. This website does not offer or provide credit repair services or personal advice or assistance with rebuilding or improving your credit score, report or rating. We do not offer any personalized consultation regarding credit or personal finances whatsoever.<br />
+    <br /></justify>
+    </font></p>
+</div>
+
+<div class="testimonials-m-text"><p align="justify">
+    <justify>
+    <font size="2" color="gray" face="arial">Testimonials, case studies, and examples found on this page are results that have been forwarded to us by users of Credit Secrets and related products, and may not reflect the typical purchaser's experience, may not apply to the average person and are not intended to represent or guarantee that anyone will achieve the same or similar results.</font>
+    <br />
+    <br />
+
+    <!--
+    <font size="2" color="gray" face="arial"> ClickBank is the retailer of products on this site. CLICKBANK� is a registered trademark
+    of Click Sales Inc., a Delaware corporation located at 1444 S. Entertainment Ave., Suite
+    410 Boise, ID 83709, USA and used by permission. ClickBank's role as retailer does not
+    constitute an endorsement, approval or review of these products or any claim, statement or
+    opinion used in promotion of these products. </font>  -->
+    <br />
+    <br />
+    <font size="2" color="gray" face="arial">� 2024 CreditSecrets.com  All rights reserved. Unauthorized duplication or publication of any materials from this site is expressly prohibited. All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement. The views and information contained within this website are provided for informational purposes only, are not meant as financial advice, and represent the current good-faith views of the authors at the time of publication. The above statements are a representation of vendor's experiences, and are narrated by a third party voice actor. Every effort has been made to accurately represent this product and its potential. Examples and testimonials in these materials are not to be interpreted as a promise or guarantee of results. This product's potential is entirely dependent on the person using it, and their current situation. CreditSecret.org is not a credit repair organization as defined under federal or state law, namely, the CROA. This website does not offer or provide credit repair services or personal advice or assistance with rebuilding or improving your credit score, report or rating. We do not offer any personalized consultation regarding credit or personal finances whatsoever.<br />
+    <br /></justify>
+    </font></p>
+</div>
 <p class="bottomlink" align="center">
 	<font size="2" face="arial" color="#ffffff">
 	<a target="_blank" href="https://creditsecret.org/terms-of-service/">Terms</a>

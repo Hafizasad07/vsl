@@ -28,6 +28,9 @@
     padding: 30px;
 }
 
+.testimonials-m-text{
+    display: none;
+}
 @media screen and (max-width:1100px){
     .video-d-style {
         max-width: 50%;
@@ -57,7 +60,15 @@
         align-content: center;
         margin: 0 auto;
         padding: 0px 20px;
-        width: 90%;
+        display: none;
+    }
+
+    .testimonials-m-text{
+        max-width: 900px;
+        align-content: center;
+        margin: 0 auto;
+        padding: 0px 20px;
+        display: block;
     }
 
     .opt{
