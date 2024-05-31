@@ -31,6 +31,7 @@
 .testimonials-m-text{
     display: none;
 }
+
 @media screen and (max-width:1100px){
     .video-d-style {
         max-width: 50%;
@@ -78,4 +79,9 @@
         margin-bottom: 40px !important;
     }
     
+    .opt .step1 {
+        padding: 0px;
+        width: 90%;
+        margin: auto;
+    }
 }
